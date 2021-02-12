@@ -1,0 +1,2 @@
+This repository contains the data files for the first edition of the book 
+"Statistical Foundations, Reasoning and Inference For Science and Data Science"
